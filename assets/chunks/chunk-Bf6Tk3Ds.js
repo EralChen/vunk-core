@@ -1,1 +1,0 @@
-import{d as e,o as s,s as o,b as a,am as n}from"./chunk-BIt-4EX2.js";import"./chunk-B3cmQ3xr.js";const p=e({__name:"basic",setup(t){return(r,c)=>(s(),o(a(n),{class:"element-plus-logo",url:"/images/element-plus-logo.svg"}))}});export{p as default};

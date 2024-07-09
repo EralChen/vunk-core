@@ -1,1 +1,0 @@
-import{_ as e}from"./chunk-B68e-ToZ.js";import{d as o,o as r,s as t}from"./chunk-BIt-4EX2.js";import"./chunk-B3cmQ3xr.js";const p=o({__name:"index",setup(a){return(n,s)=>(r(),t(e))}});export{p as default};
