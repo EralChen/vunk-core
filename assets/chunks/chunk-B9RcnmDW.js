@@ -1,0 +1,1 @@
+import{V as t,a as o}from"./chunk-Cre5MhuI.js";import{d as s,o as r,c as n,k as a,w as l,b as e,F as c,a as m}from"./chunk-BKN-bbEl.js";import"./chunk-B3cmQ3xr.js";const p=m("button",null,"draggable",-1),g=s({__name:"basic",setup(_){return(d,u)=>(r(),n(c,null,[a(e(t),null,{default:l(()=>[p]),_:1}),a(e(o),{class:"demo-basic-dropable"})],64))}});export{g as default};
