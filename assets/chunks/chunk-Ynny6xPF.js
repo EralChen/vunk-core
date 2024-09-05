@@ -1,0 +1,1 @@
+import{d as e,o as s,s as o,b as t,aA as a}from"./chunk-DSDXeCVq.js";import"./chunk-B3cmQ3xr.js";const m=e({__name:"basic",setup(n){return(l,r)=>(s(),o(t(a),{class:"element-plus-logo",url:"https://element-plus.org/images/element-plus-logo.svg"}))}});export{m as default};

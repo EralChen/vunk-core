@@ -1,0 +1,1 @@
+import{X as l,n as a,o as r,c,k as n,w as t,j as o}from"./chunk-DSDXeCVq.js";import"./chunk-B3cmQ3xr.js";const s={};function _(d,i){const e=a("el-link");return r(),c("div",null,[n(e,{underline:!1},{default:t(()=>[o("Without Underline")]),_:1}),n(e,null,{default:t(()=>[o("With Underline")]),_:1})])}const p=l(s,[["render",_],["__scopeId","data-v-20b38079"]]);export{p as default};

@@ -1,0 +1,1 @@
+import{d as n,r as s,n as l,o as r,c as i,k as c,w as u,j as p,t as d,Y as v}from"./chunk-DSDXeCVq.js";const k=n({__name:"third-party",setup(_){const e=s(!1);return(o,t)=>{const a=l("ElButton");return r(),i("div",null,[c(a,{onClick:t[0]||(t[0]=m=>e.value=!e.value)},{default:u(()=>[p(d(e.value),1)]),_:1}),v(o.$slots,"default",{isAcitve:e.value})])}}});export{k as _};
