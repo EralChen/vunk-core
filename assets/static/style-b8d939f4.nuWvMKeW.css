@@ -1,0 +1,1 @@
+.vk-duplex{display:flex;flex-direction:var(--vk-duplex-direction);gap:var(--vk-duplex-gap)}.vk-duplex.is-full-h{height:100%}.vk-duplex-1.with-flex,.vk-duplex-2.with-flex{flex:var(--vk-duplex-flex)}.vk-duplex-1.with-overflow,.vk-duplex-2.with-overflow{overflow:var(--vk-duplex-overflow)}

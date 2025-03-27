@@ -1,0 +1,1 @@
+.vk-split-grid{display:grid;width:100%;height:100%}.vk-split-grid-gutter{transition:background .4s;transition-delay:.2s}.vk-split-grid-gutter:hover{cursor:col-resize;background:var(--el-color-primary, #409eff)}.vk-split-grid-gutter.is-dragging{background-color:var(--el-color-primary, #409eff)}
