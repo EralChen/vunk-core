@@ -1,0 +1,1 @@
+.vk-panel-group.is-only .panel-main-tab{cursor:initial}.vk-panel-group.is-empty{display:none}.vk-panel-group.is-last-dragged{z-index:99}.vk-panel-group{transition:opacity .3s}.vk-panel-group.is-draggingover{opacity:.5}.vk-panel-group.is-dragover .vk-panel-carcass__main{box-shadow:0 0 0 2px var(--el-color-primary)}
