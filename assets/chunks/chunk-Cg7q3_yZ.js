@@ -1,1 +1,0 @@
-import{d as s,p as n,r as l,c as r,o as i,k as c,$ as p,w as u,m as d,t as m}from"./chunk-RP3_98VE.js";const k=s({__name:"third-party",setup(v){const e=n(!1);return(o,t)=>{const a=l("ElButton");return i(),r("div",null,[c(a,{onClick:t[0]||(t[0]=_=>e.value=!e.value)},{default:u(()=>[d(m(e.value),1)]),_:1}),p(o.$slots,"default",{isAcitve:e.value})])}}});export{k as _};
