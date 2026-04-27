@@ -1,1 +1,0 @@
-import{d as s,p as t,c as o,o as r,v as a,x as c,F as l}from"./chunk-Befn0cpz.js";const u=s({__name:"renderer-preset",props:{renderer:null},setup(n){const e=t(null);return(p,d)=>(r(),o("div",{ref_key:"presetNode",ref:e,class:"renderer-preset-x"},[e.value?(r(),a(l(n.renderer),{key:0,transfer:{presetNode:e.value}},null,8,["transfer"])):c("",!0)],512))}});export{u as _};
